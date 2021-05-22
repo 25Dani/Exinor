@@ -1,0 +1,5 @@
+# Discord Token
+.env
+
+# Pycache or something idk
+extensions/__pycache__/

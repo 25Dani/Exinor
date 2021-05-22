@@ -1,0 +1,12 @@
+
+{
+    "invite": "https://discord.com/api/oauth2/authorize?client_id=707181438268735499&permissions=1879179318&scope=bot",
+
+    "server_ids": {
+        "main_server": 707173698418769920
+    },
+
+    "superids": [
+        523108040644231168
+    ]
+}
